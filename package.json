@@ -1,0 +1,16 @@
+{
+  "name": "traversal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Traversal — jeu de stratégie 3D en ligne avec Elo et bot auto-entraîné",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
